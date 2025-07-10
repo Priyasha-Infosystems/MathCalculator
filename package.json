@@ -2,6 +2,18 @@
   "name": "mathcalculator",
   "version": "1.0.0",
   "description": "This is a test math calculation using native android  cordova plugin ",
+  "keywords": [
+    "ionic",
+    "baidurja"
+  ],
+  "homepage": "https://github.com/Priyasha-Infosystems/MathCalculator#readme",
+  "bugs": {
+    "url": "https://github.com/Priyasha-Infosystems/MathCalculator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyasha-Infosystems/MathCalculator.git"
+  },
   "license": "ISC",
   "author": "Baidurja Khunte",
   "type": "commonjs",
