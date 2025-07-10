@@ -1,10 +1,9 @@
 {
   "name": "mathcalculator",
   "version": "1.0.0",
-  "description": "This is a test math calculation using native android  cordova plugin ",
+  "description": "test",
   "keywords": [
-    "ionic",
-    "baidurja"
+    "ionic"
   ],
   "homepage": "https://github.com/Priyasha-Infosystems/MathCalculator#readme",
   "bugs": {
