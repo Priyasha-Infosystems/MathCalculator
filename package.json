@@ -1,23 +1,25 @@
 {
-  "name": "mathcalculator",
+  "name": "cordova-plugin-mathcalculator",
   "version": "1.0.0",
-  "description": "test",
-  "keywords": [
-    "ionic"
-  ],
-  "homepage": "https://github.com/Priyasha-Infosystems/MathCalculator#readme",
-  "bugs": {
-    "url": "https://github.com/Priyasha-Infosystems/MathCalculator/issues"
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-mathcalculator",
+    "platforms": [
+      "android"
+    ]
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Priyasha-Infosystems/MathCalculator.git"
   },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
   "license": "ISC",
-  "author": "Baidurja Khunte",
-  "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "bugs": {
+    "url": "https://github.com/Priyasha-Infosystems/MathCalculator/issues"
+  },
+  "homepage": "https://github.com/Priyasha-Infosystems/MathCalculator#readme"
 }
